@@ -7,7 +7,7 @@ kod 1: 1.hafta [phyton temelleri collab] https://colab.research.google.com/drive
 2. hafta 2. ders https://colab.research.google.com/drive/1y2-DUABgQL9HkjJmc8Ww-jUXe9pSV6In?authuser=1
 
 
-3. hafta 5. ders 19 Mayıs:
+3. hafta 5. ders 19 Mayıs: https://colab.research.google.com/drive/1gder_YJNAHSDuV5617BP7tnLzeF4mRvK?authuser=1
 3. hafta  6. ders 21 Mayıs:
 
 4. hafta 7. ders 2 Haziran:
